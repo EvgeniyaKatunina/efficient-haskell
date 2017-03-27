@@ -1,0 +1,5 @@
+Benchmark                          Mode  Cnt    Score    Error  Units
+QsortBenchmark.benchmarkQsort1000  avgt    5   35,238 ±  2,568  us/op
+QsortBenchmark.benchmarkQsort5000  avgt    5  185,637 ± 20,583  us/op
+QsortBenchmark.benchmarkStd1000    avgt    5    0,420 ±  0,034  us/op
+QsortBenchmark.benchmarkStd5000    avgt    5    1,899 ±  0,079  us/op

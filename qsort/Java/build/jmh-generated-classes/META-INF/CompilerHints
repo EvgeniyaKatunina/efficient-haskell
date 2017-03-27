@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/example/QsortBenchmark.benchmarkQsort1000
+inline,com/example/QsortBenchmark.benchmarkQsort5000
+inline,com/example/QsortBenchmark.benchmarkStd1000
+inline,com/example/QsortBenchmark.benchmarkStd5000
+inline,com/example/QsortBenchmark.setup
+inline,org/openjdk/jmh/infra/Blackhole.clearSinks
